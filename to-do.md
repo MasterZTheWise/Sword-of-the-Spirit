@@ -32,6 +32,8 @@ Menu Organization
         -Add verses/passages
         -Remove verses/passages
         -View list of memorized verses/WIPs
+        -Data file
+            -> info for complete reference, memorization status, favorited status
     -Quiz
         -verse field screen
             -pass/fail screen
@@ -43,7 +45,7 @@ Menu Organization
 
 Dev Plan
 *~~quiz prompt~~
-*storing memorized verses in a save file
+*~~storing memorized verses in a save file~~
 *simple window and menu navigation
 *altering window properties and storing settings
 *compiling into executable and enabling on startup
