@@ -46,6 +46,8 @@ Menu Organization
 Dev Plan
 *~~quiz prompt~~
 *~~storing memorized verses in a save file~~
-*simple window and menu navigation
-*altering window properties and storing settings
+*~~simple window and menu navigation~~
+*~~altering window properties and storing settings~~
 *compiling into executable and enabling on startup
+*timer to force quiz
+*algorithm to choose best verse to practice based on past scores
