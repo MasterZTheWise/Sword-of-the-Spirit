@@ -1,0 +1,3 @@
+pythonbible==0.14.0
+flask==2.3.3
+
