@@ -1,0 +1,9 @@
+{
+    "quiz_interval_minutes": 30,
+    "countdown_timer_seconds": 60,
+    "force_window_on_top": false,
+    "pass_accuracy_percent": 75,
+    "suggest_random_verses": true,
+    "auto_launch_on_startup": false,
+    "current_theme": ""
+}
